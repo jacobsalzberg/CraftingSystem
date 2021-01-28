@@ -6,7 +6,7 @@ Prototype of an inventory system with crafting recipes.
 
 ## Refences
 
-[]: # [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
+<!--- # [Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
 
 
 ## Sample Screenshots
