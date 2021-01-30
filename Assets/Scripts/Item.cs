@@ -11,7 +11,7 @@ public class Item
     //new object from the dictionary constructor
     public Dictionary<string, int> stats = new Dictionary<string, int>();
 
-    public Item(int id, string title, string description, Sprite icon, Dictionary<string, int> stats)
+    public Item(int id, string title, string description, Dictionary<string, int> stats)
     {
         //instance field equals the paramenter passed in
         this.id = id;
